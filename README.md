@@ -1,0 +1,2 @@
+# eco-smoothies
+Echo-smoothies are a delicious and nutritious drink used in diet planning.it is a balanced diet made from organic fruits, vegetables, and seeds. It's a strong drink that introduces you to five special flavors in a variety of tastes. You can see how this drink is prepared on our home page and one can register as an online customer to place an order and purchase the drink as per their necessity. For this I used HTML5,CSS,JavaScript,MySQL, and PHP
